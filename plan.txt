@@ -1,0 +1,14 @@
+Main
+Monkey template
+    fields
+    Projectile
+    Range
+    Attack Speed
+    Upgrades
+    
+
+Projectile Class
+    Damage
+    Pierce
+    Effects
+    Get and Set functions
